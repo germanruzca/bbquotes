@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bbquotes/static/css/main.1b095d83.chunk.css",
+    "main.js": "/bbquotes/static/js/main.f8abfbfb.chunk.js",
+    "main.js.map": "/bbquotes/static/js/main.f8abfbfb.chunk.js.map",
+    "runtime-main.js": "/bbquotes/static/js/runtime-main.177ba257.js",
+    "runtime-main.js.map": "/bbquotes/static/js/runtime-main.177ba257.js.map",
+    "static/js/2.5df52d33.chunk.js": "/bbquotes/static/js/2.5df52d33.chunk.js",
+    "static/js/2.5df52d33.chunk.js.map": "/bbquotes/static/js/2.5df52d33.chunk.js.map",
+    "static/js/3.21d27a7a.chunk.js": "/bbquotes/static/js/3.21d27a7a.chunk.js",
+    "static/js/3.21d27a7a.chunk.js.map": "/bbquotes/static/js/3.21d27a7a.chunk.js.map",
+    "index.html": "/bbquotes/index.html",
+    "static/css/main.1b095d83.chunk.css.map": "/bbquotes/static/css/main.1b095d83.chunk.css.map",
+    "static/js/2.5df52d33.chunk.js.LICENSE.txt": "/bbquotes/static/js/2.5df52d33.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bbquotes/static/media/logo.4543bc50.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.177ba257.js",
+    "static/js/2.5df52d33.chunk.js",
+    "static/css/main.1b095d83.chunk.css",
+    "static/js/main.f8abfbfb.chunk.js"
+  ]
+}
